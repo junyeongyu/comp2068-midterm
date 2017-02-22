@@ -1,0 +1,8 @@
+h1.title, .table {
+	margin: 0 5% 0 5%;
+	width: 90%;
+}
+h1.title {
+	margin-top: 80px;
+	margin-bottom: 30px;
+}
