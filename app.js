@@ -29,8 +29,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/players', require('./routes/players'));
 
-app.listen(3000, function () {
+/*app.listen(3000, function () {
   console.log('Example app listening on port 3000!!!!!');
-});
+});*/
 
 module.exports = app;

@@ -2,9 +2,9 @@
   "name": "midterm",
   "version": "0.0.0",
   "private": true,
-  "main": "app.js",
+  "main": "./bin/www",
   "scripts": {
-    "start": "node app.js"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "body-parser": "~1.15.2",
